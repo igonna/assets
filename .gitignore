@@ -1,0 +1,8 @@
+*
+!*/
+
+!assets-[0-9]*.bin
+!assets-[0-9]*.dat
+!assets-[0-9]*.pkg
+
+!.gitignore
